@@ -1,6 +1,6 @@
 package com.example.demo.controllers;
 
-import com.employee.services.InstanceInformationService;
+import com.example.demo.services.InstanceInformationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
